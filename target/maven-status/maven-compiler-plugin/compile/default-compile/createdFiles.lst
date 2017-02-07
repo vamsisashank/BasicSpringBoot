@@ -1,0 +1,7 @@
+org/egentrainings/controller/PersonController.class
+org/egentrainings/Application.class
+org/egentrainings/impl/Organization.class
+org/egentrainings/config/sampleConfig.class
+org/egentrainings/service/serviceimpl/PersonService.class
+org/egentrainings/modal/Person.class
+org/egentrainings/repository/IPersonRepository.class
